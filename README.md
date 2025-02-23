@@ -1,16 +1,41 @@
-# final_project
+# eCommerce Shoe App
 
-A new Flutter project.
+##  Overview
+The **eCommerce Shoe App** is a **Flutter-based mobile application** designed to help users **browse, select, and purchase shoes** from various categories. The app provides **personalized recommendations, secure checkout options, and seamless user experience** across different platforms.
 
-## Getting Started
+## Features
+- **Browse Products:** View a list of available shoes with filters for brands, sizes, and price.
+- **Product Details:** Detailed descriptions, images, and reviews for selected shoes.
+- **Cart & Wishlist Management:** Add products to cart or save them in a wishlist.
+- **User Authentication:** Secure login and registration using **Firebase Authentication**.
+- **Payment Processing:** Secure transactions with **Stripe Payment Integration**.
+- **Order Tracking:** Track order status from placement to delivery.
+- **Cross-Platform Compatibility:** Works on both **Android and iOS**.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Development Environment
+- **Platform:** Flutter
+- **Programming Language:** Dart
+- **IDE:** Visual Studio Code & Android Studio
+- **Technologies Used:**
+  - **Firebase:** User authentication & real-time database management
+  - **Stripe:** Secure payment processing
+  - **Flutter Packages:** Custom UI components & animations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Installation & Setup
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/your-username/eCommerce-Shoe-App.git
+2. **Navigate to the project directory**:
+
+cd eCommerce-Shoe-App
+3. **Install dependencies**:
+
+flutter pub get
+
+4.**Run the application**:
+
+flutter run
